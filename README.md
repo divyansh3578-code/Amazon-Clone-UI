@@ -1,4 +1,3 @@
-Since you're building this from scratch with HTML and CSS, here is a professional, copy-paste ready README.md that highlights your front-end skills and attention to detail.
 
 🛒 Amazon Clone - Front-End UI
 A high-fidelity, responsive recreation of the Amazon.com homepage built using pure HTML5 and CSS3. This project focuses on mastering complex layouts, navigation systems, and e-commerce UI patterns without the use of external frameworks.
